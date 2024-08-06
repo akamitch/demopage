@@ -1,0 +1,22 @@
+{
+  "name": "demopage",
+  "version": "1.0.0",
+  "description": "Demo page for reverse proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akamitch/demopage.git"
+  },
+  "author": "Mitch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akamitch/demopage/issues"
+  },
+  "homepage": "https://github.com/akamitch/demopage#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
